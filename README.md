@@ -1,5 +1,10 @@
 Welcome to your new dbt project!
 
+### Workflow chart
+
+![Workflow chart](images/Workflow.png)
+
+
 ### Using the starter project
 
 Try running the following commands:
